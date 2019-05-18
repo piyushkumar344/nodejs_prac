@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":  "node server.js"  // heroku doest knows our file, hence with start command server.js will be initiated
+    "start": "node server.js" 
   },
   "author": "",
   "license": "ISC",
